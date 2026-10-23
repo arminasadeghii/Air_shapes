@@ -72,14 +72,6 @@ air_shapes/
 
 The `hand_landmarker.task` file is a downloaded model asset rather than a Python dependency. Follow its licensing and redistribution terms before including it in your repository.
 
-## 🚀 Future Improvements
-
-- Add more complex 3D shapes.
-- Improve recognition of imperfect or overlapping strokes.
-- Allow users to change model colors and rotation speed.
-- Add gesture-based rotation and scaling controls.
-- Export generated 3D models to formats such as OBJ or STL.
-- Add a graphical interface for customizing the drawing experience.
 
 ## 💡 Motivation
 
