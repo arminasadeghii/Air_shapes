@@ -1,4 +1,4 @@
-# Air Shapes 3D ✋🧊
+# Air Shapes 3D
 
 **Draw in the air. Create in 3D.**
 
